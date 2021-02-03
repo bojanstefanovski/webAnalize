@@ -1,0 +1,158 @@
+{
+    "data": [
+       { "name" : "bbc.com",
+        "beetweenness": [
+            {
+            "depth2" : [{"https://www.bbc.com/sport/wales": 0.008681815831164761},
+                            {"https://www.bbc.com/sport/football": 0.008494626165140486},
+                            {"https://www.bbc.com/sport": 0.006072537272702302},
+                            {"https://www.bbc.com/sport/england": 0.005286254172501049},
+                            {"https://www.bbc.com/sport/scotland": 0.005192754144303121},
+                            {"https://www.bbc.com/sport/football/premier-league/scores-fixtures": 0.0041593051582288435},
+                            {"https://www.bbc.com/sport/get-inspired": 0.003972384631928688},
+                            {"https://www.bbc.com/sport/football/european": 0.003940556441145191},
+                            {"https://www.bbc.com/sport/rugby-league": 0.003461503908701678},
+                            {"https://www.bbc.com/sport/rugby-union": 0.003129738313381604}] },
+            {
+            "depth3": [{"https://www.bbc.com/sport/football": 0.008818231558877435},
+                {"https://www.bbc.com": 0.008328085785308638},
+                {"https://www.bbc.com/sport": 0.006995583382462447},
+                {"https://www.bbc.com/sport/football/premier-league/scores-fixtures": 0.006377919843355884},
+                {"https://www.bbc.com/sport/england": 0.005879133426925164},
+                {"https://www.bbc.com/sport/scotland": 0.005841743069903172},
+                {"https://www.bbc.com/sport/football/scores-fixtures": 0.005261286216720239},
+                {"https://www.bbc.com/sport/wales": 0.0052412349833737175},
+                {"https://www.bbc.com/news": 0.005088587624363166},
+                {"https://www.bbc.com/sport/football/european": 0.004690695826718716}] },
+            {
+                "depth4": [{"https://www.bbc.com/sport/wales": 0.01807164826343363},
+                    {"https://www.bbc.com/sport/football": 0.010263296840248584},
+                    {"https://www.bbc.com/sport/scotland": 0.009980240700427861},
+                    {"https://www.bbc.com/sport/england": 0.009519191997434222},
+                    {"https://www.bbc.com/sport": 0.009508871946428748},
+                    {"https://www.bbc.com/sport/football/european": 0.007897717454007972},
+                    {"https://www.bbc.com/sport/american-football": 0.007015924440065928},
+                    {"https://www.bbc.com/news": 0.006311542218343215},
+                    {"https://www.bbc.com/sport/football/championship/scores-fixtures": 0.004282645458694505},
+                    {"https://www.bbc.com/sport/rugby-league": 0.004259978889876062}] }
+        ],
+        "closeness" : [
+            {
+                "depth2" : [{"https://www.bbc.co.uk/accessibility/": 0.08960086885691013},
+                    {"https://www.bbc.co.uk/sounds": 0.08960086885691013},
+                    {"https://www.bbc.co.uk/aboutthebbc": 0.08960086885691013},
+                    {"https://www.bbc.co.uk/guidance": 0.08960086885691013},
+                    {"https://www.bbc.co.uk/contact": 0.08960086885691013},
+                    {"https://www.bbc.co.uk/bbcnewsletter": 0.08960086885691013},
+                    {"https://www.bbc.co.uk/help/web/links/": 0.08960086885691013},
+                    {"https://www.bbc.com/sport": 0.0885148900722385},
+                    {"https://www.bbc.com/sport/football": 0.08691842912905184},
+                    {"https://www.bbc.com/sport/tennis": 0.08683142369448822}] },
+                {
+                "depth3": [{"https://www.bbc.co.uk/help/web/links/" : 0.0866323685600794},
+                    {"https://www.bbc.co.uk/contact" : 0.08593559347782675},
+                    {"https://www.bbc.co.uk/accessibility/" : 0.0859100021754212},
+                    {"https://www.bbc.co.uk/guidance" : 0.0859100021754212},
+                    {"https://www.bbc.co.uk/bbcnewsletter" : 0.0859100021754212},
+                    {"https://www.bbc.co.uk/sounds" : 0.0858844261104687},
+                    {"https://www.bbc.co.uk/aboutthebbc" : 0.08568036450996863},
+                    {"https://www.bbc.com/sport" : 0.07649183964653558},
+                    {"https://www.bbc.com/sport/football" : 0.07403144733165563},
+                    {"https://www.bbc.com/sport/olympics" : 0.07388291762935652}] },
+                {
+                    "depth4": ["page1a", "page2a", "page3a"] }
+        ],
+
+        "degree" : [
+            {
+                "depth2" : [{"https://www.bbc.com/sport/football": 0.10136663951488822}, {"https://www.bbc.com/sport/wales": 0.10028056837722871},
+                    {"https://www.bbc.com/sport": 0.10000905059281383}, {"https://www.bbc.com/sport/england": 0.09946601502398407},
+                    {"https://www.bbc.com/sport/get-inspired": 0.0990134853832926}, {"https://www.bbc.com/sport/scotland": 0.09792741424563309},
+                    {"https://www.bbc.com/sport/northern-ireland": 0.09792741424563309}, {"https://www.bbc.com/sport/boxing": 0.09765589646121821},
+                    {"https://www.bbc.com/sport/northern-ireland/gaelic-games": 0.09729387274866504}, {"https://www.bbc.com/sport/all-sports": 0.09684134310797357}] },
+                {
+                "depth3": [{"https://www.bbc.co.uk/help/web/links/": 0.08663224325874928},{"https://www.bbc.co.uk/contact": 0.0859281280968028},{"https://www.bbc.co.uk/accessibility/": 0.08590204975747144},{"https://www.bbc.co.uk/guidance": 0.08590204975747144},{"https://www.bbc.co.uk/bbcnewsletter": 0.08590204975747144},{"https://www.bbc.co.uk/sounds": 0.08587597141814009},{"https://www.bbc.co.uk/aboutthebbc": 0.08566734470348927},{"https://www.bbc.com/sport": 0.08212069055442549},{"https://www.bbc.com/sport/football": 0.08006050174724873},{"https://www.bbc.com/sport/wales": 0.0795910916392844}] },
+                {
+                    "depth4": [{"https://www.bbc.co.uk/accessibility/": 0.1138580674988442},{"https://www.bbc.co.uk/guidance": 0.1138580674988442},{"https://www.bbc.co.uk/contact": 0.1138580674988442},{"https://www.bbc.co.uk/bbcnewsletter": 0.1138580674988442},{"https://www.bbc.co.uk/help/web/links/": 0.1138580674988442},{"https://www.bbc.co.uk/aboutthebbc": 0.11384650947757745},{"https://www.bbc.co.uk/sounds": 0.1138002773925104},{"https://www.bbc.com/sport": 0.11020573277854831},{"https://www.bbc.com/sport/football": 0.10340961627369395},{"https://www.bbc.com/sport/wales": 0.10313222376329173}] }
+        ],
+
+        "pagerank": [
+            {"depth2" :[{"https://www.bbc.co.uk/aboutthebbc": 0.0015275555500567925},{"https://www.bbc.co.uk/guidance": 0.0015275555500567925},{"https://www.bbc.co.uk/contact": 0.0015275555500567925},{"https://www.bbc.co.uk/bbcnewsletter": 0.0015275555500567925},{"https://www.bbc.co.uk/help/web/links/": 0.0015275555500567925},{"https://www.bbc.co.uk/accessibility/": 0.0015275555500567923},{"https://www.bbc.co.uk/sounds": 0.0015275555500567923},{"https://www.bbc.com/sport": 0.0014981096238932182},{"https://www.bbc.com/sport/football": 0.001481751402781836},{"https://www.bbc.com/sport/tennis": 0.0014794379184865604}    
+            ]},
+            {"depth3" :[{"https://www.bbc.co.uk/help/web/links/": 0.0013698715507198002},
+                {"https://www.bbc.co.uk/contact": 0.001361768737546104},
+                {"https://www.bbc.co.uk/accessibility/": 0.001361392174057391},{"https://www.bbc.co.uk/guidance": 0.001361392174057391},
+                {"https://www.bbc.co.uk/bbcnewsletter": 0.001361392174057391},{"https://www.bbc.co.uk/sounds": 0.0013611914248463305},
+                {"https://www.bbc.co.uk/aboutthebbc": 0.0013575234744492345},{"https://www.bbc.com/sport": 0.0012264723545586706},
+                {"https://www.bbc.com/sport/football": 0.0011896094872085078},{"https://www.bbc.com/sport/olympics": 0.0011875931065975008}
+                ]},
+            {"depth4" :[]}
+        ]
+
+    },
+    { "name" : "skysports.com",
+        "closeness": [
+            {
+                "depth2" : [ {"https://www.skysports.com/watch/get-sky": 0.06260005055185779},{"https://fantasyfootball.skysports.com/": 0.06260005055185779},{"https://www.skysports.com/mobile": 0.06255792400370713},{"https://www.skysports.com/contact-us": 0.06255792400370713},{"https://www.skysports.com/watch/sky-sports-cricket": 0.06255792400370713},{"https://www.skysports.com/watch/sky-sports-racing": 0.06255792400370713},{"https://www.skysports.com/watch/sky-sports-main-event": 0.06255792400370713},{"https://www.skysports.com/watch/sky-sports-premier-league": 0.06255792400370713},{"https://www.skysports.com/watch/sky-sports-football": 0.06255792400370713},{"https://www.skysports.com/watch/sky-sports-golf": 0.06255792400370713}] },
+                {
+                "depth3": [{"https://www.skysports.com/watch/get-sky": 0.057244938710610045},{"https://fantasyfootball.skysports.com/": 0.057244938710610045},{"https://www.skysports.com/mobile": 0.05723829776662277},{"https://www.skysports.com/contact-us": 0.05723829776662277},{"https://www.skysports.com/watch/sky-sports-cricket": 0.05723829776662277},{"https://www.skysports.com/watch/sky-sports-racing": 0.05723829776662277},{"https://www.skysports.com/watch/sky-sports-main-event": 0.05723829776662277},{"https://www.skysports.com/watch/sky-sports-premier-league": 0.05723829776662277},{"https://www.skysports.com/watch/sky-sports-football": 0.05723829776662277},{"https://www.skysports.com/watch/sky-sports-golf": 0.05723829776662277}] },
+                {
+                    "depth4": ["page1a", "pagffde2a", "page3a"] }
+        ],
+        "beetweenness" : [
+            {
+                "depth2" : [{"https://www.skysports.com/football": 0.008175764672033643},{"https://www.skysports.com/watch/tv-guide": 0.006032480250512093},{"https://www.skysports.com": 0.005976228448462145},{"https://www.skysports.com/racing": 0.002873231063921954},{"https://www.skysports.com/football/news/topic/8724/black-lives-matter": 0.0027962381863471295},{"https://www.skysports.com/cricket": 0.002234289576728533},{"https://www.skysports.com/f1": 0.002187650215888832},{"https://www.skysports.com/rugby-union": 0.0021509568943788005},{"https://www.skysports.com/golf": 0.0018746278309608269},{"https://www.skysports.com/more-sports": 0.0018615056588204364}] },
+                {
+                "depth3": ["page1a", "page2a", "page3a"] }
+                      ],
+
+        "degree" : [
+            {
+                "depth2" : [{"https://www.skysports.com/watch/tv-guide": 0.07692307692307691},{"https://www.skysports.com/football": 0.06824500800404415},{"https://www.skysports.com/cricket": 0.06748673013733254},{"https://www.skysports.com/golf": 0.06702333810767545},{"https://www.skysports.com/rugby-union": 0.06698121155952481},{"https://www.skysports.com/f1": 0.06693908501137416},{"https://www.skysports.com/rugby-league": 0.06685483191507288},{"https://www.skysports.com/darts": 0.06672845227062094},{"https://www.skysports.com/more-sports": 0.0666863257224703},{"https://www.skysports.com/olympics": 0.06664419917431966}] },
+ {
+                "depth3": [{"https://www.skysports.com/watch/tv-guide": 0.05935675815673956},{"https://www.skysports.com/football": 0.05798872367695792},{"https://www.skysports.com/cricket": 0.05786918668357894},{"https://www.skysports.com/rugby-union": 0.05782270007504267},{"https://www.skysports.com/golf": 0.05779613629873623},{"https://www.skysports.com/f1": 0.057782854410583014},{"https://www.skysports.com/rugby-league": 0.0577762134665064},{"https://www.skysports.com/darts": 0.05774964969019996},{"https://www.skysports.com/more-sports": 0.05774300874612335},{"https://www.skysports.com/olympics": 0.05773636780204674}] },
+                {
+                    "depth4": ["page1a", "page2ap", "pxage3a"] }
+        ],
+        
+        "pagerank": [
+            {"depth2" :[{"https://www.skysports.com/watch/get-sky?DCMP=afc-skysporrts:nc_SkyGo_signin": 0.0068896563013020615},{"https://www.skysports.com/nowtv?DCMP=ilc_2013_skysports_watch_lightbox": 0.0068896563013020615},{"https://www.skysports.com/mobile": 0.001459581715045853},{"https://www.skysports.com/contact-us": 0.001459581715045853},{"https://www.skysports.com/watch/sky-sports-cricket": 0.001459581715045853},{"https://www.skysports.com/watch/sky-sports-racing": 0.001459581715045853},{"https://www.skysports.com/watch/get-sky": 0.0014595817150458517},{"https://fantasyfootball.skysports.com/": 0.0014595817150458517},{"https://www.skysports.com/watch/sky-sports-main-event": 0.0014595817150458517},{"https://www.skysports.com/watch/sky-sports-premier-league": 0.0014595817150458517}    
+            ]},
+            {"depth3" :[{"https://www.skysports.com/watch/get-sky?DCMP=afc-skysporrts:nc_SkyGo_signin": 0.0069691898630242066},{"https://www.skysports.com/nowtv?DCMP=ilc_2013_skysports_watch_lightbox": 0.0069691898630242066},{"https://www.skysports.com/mobile": 0.0004511971604240238},{"https://www.skysports.com/contact-us": 0.0004511971604240238},{"https://www.skysports.com/watch/sky-sports-cricket": 0.0004511971604240238},{"https://www.skysports.com/watch/sky-sports-racing": 0.0004511971604240238},{"https://www.skysports.com/watch/get-sky": 0.0004511971604240238},{"https://fantasyfootball.skysports.com/": 0.0004511971604240238},{"https://www.skysports.com/watch/sky-sports-main-event": 0.0004511971604240238},{"https://www.skysports.com/watch/sky-sports-premier-league": 0.0004511971604240238}]},
+            {"depth4" :[]}
+        ]
+
+    },
+    { "name" : "nbcsports.com",
+        "closeness": [
+            {
+                "depth2" : ["paged1", "page2n", "pagev3"] },
+                {
+                "depth3": ["page1ad", "paged2a", "page3ad"] },
+                {
+                    "depth4": ["page1afd", "paged2a", "pdage3a"] }
+        ],
+        "beetweenness" : [
+            {
+                "depth2" : ["pagev1", "pagxex2x", "pagxex3sf"] },
+                {
+                "depth3": ["page1af", "page2faf", "page3ffaf"] },
+                {
+                    "depth4": ["pageff1a", "page2af", "page3ad"] }
+        ],
+
+        "degree" : [
+            {
+                "depth2" : ["page1q", "page2q", "page3q"] },
+                {
+                "depth3": ["page1aq", "page2qa", "page3aq"] },
+                {
+                    "depth4": ["page1aq", "pageq2a", "paqgqqe3a"] }
+        ]
+
+    }
+
+    ]
+
+
+}

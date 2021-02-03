@@ -1,26 +1,30 @@
 <template>
-  <img alt="Vue logo" src="./assets/logo.png">
-  <HelloWorld msg="Welcome to Your Vue.js App"/>
+
+  <choosesite class=""></choosesite>
+  
+  
 </template>
 
 <script>
-import HelloWorld from './components/HelloWorld.vue'
+import Choosesite from './components/Choosesite.vue'
+
 
 export default {
   name: 'App',
   components: {
-    HelloWorld
+    Choosesite, 
+
   }
 }
 </script>
 
-<style>
+<style  src="./assets/style/index.css">
 #app {
   font-family: Avenir, Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  text-align: center;
+ 
   color: #2c3e50;
-  margin-top: 60px;
+ 
 }
 </style>
