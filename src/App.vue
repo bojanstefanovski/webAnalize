@@ -1,5 +1,4 @@
 <template>
-
   <choosesite class=""></choosesite>
   
   
@@ -18,7 +17,7 @@ export default {
 }
 </script>
 
-<style  src="./assets/style/index.css">
+<style>
 #app {
   font-family: Avenir, Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;

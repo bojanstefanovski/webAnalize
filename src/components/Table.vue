@@ -9,10 +9,10 @@
            
             <div class="p-2 " v-for="s in tableData[index][depth]" :key="s">
                 
-                <div class="border-b p-2 " v-for="(score, name) in s" :key="name">
+                <div class="border-b p-2" v-for="(score, name) in s" :key="name">
                     
-                    <div class="text-sm hover:text-red-800 "> <a :href="name"> {{name}} </a> </div>
-                    <span class="text-xs p-0. 5 rounded bg-red-800 text-white"> {{convertScore(score)}} </span>
+                     <a class="text-sm hover:text-red-800 " :href="name"> {{name}} </a> 
+                    <span class="text-xs p-0. 5 rounded bg-red-800 text-white float-right p-1"> {{convertScore(score)}} </span>
                 
                 </div>
             </div>

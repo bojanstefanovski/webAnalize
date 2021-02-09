@@ -8,7 +8,7 @@
 
 
         </div>
-        <img class="mt-2 mb-2" src="@/assets/unnamed.png" alt="Smiley face" height="620" width="620">
+        <img class="mt-2 mb-2" :src="getGraphImageUrl()" alt="Smiley face" height="620" width="620">
     </div>
   
 </template>
@@ -31,7 +31,11 @@ export default {
         var images = require.context('../assets/logos/', false, /\.png$/)
         return images('./' + this.sitelogo + ".png")
         
-  }
+  },
+    getGraphImageUrl(){
+        var images = require.context('../assets/', false, /\.png$/)
+        return images('./' + this.sitelogo + ".png")
+    }
   },
   created(){
       this.sitelogo= this.name.replace(".com","")
